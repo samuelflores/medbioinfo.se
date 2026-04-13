@@ -1,0 +1,26 @@
+<header>
+  <div class="utility-bar">
+    <div class="container utility-inner">
+      <div class="utility-email"><a href="mailto:{{ site.Data.site.contact_email }}">{{ site.Data.site.contact_email }}</a></div>
+      <div class="utility-links">
+        <span>Quick Links</span>
+        {{ range site.Data.quicklinks }}<a href="{{ .url }}">{{ .name }}</a>{{ end }}
+      </div>
+    </div>
+  </div>
+  <div class="notice-bar">{{ site.Data.site.notice }}</div>
+  <div class="branding container">
+    <a href="/" class="brand-link"><img src="/img/logo.jpg" alt="MedBioInfo logo"></a>
+  </div>
+  <div class="nav-shell">
+    <div class="container nav-wrap">
+      <nav>
+        <ul class="nav-list">
+          {{ range site.Menus.main }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>

@@ -1,0 +1,8 @@
+<div class="table-list">
+{{ range site.Data.external_partners }}
+  <div class="list-card">
+    <strong><a href="{{ .url }}">{{ .name }}</a></strong><br>
+    <span>{{ .summary }}</span>
+  </div>
+{{ end }}
+</div>

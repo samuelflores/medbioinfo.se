@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="page-section">
+  <div class="container content-grid">
+    <article class="main-content prose">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+      <div class="post-list">
+        {{ range .Pages.ByDate.Reverse }}
+        <article class="post-card">
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          <p class="post-meta">{{ .Date.Format "2 Jan 2006" }}</p>
+          {{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
+        </article>
+        {{ end }}
+      </div>
+    </article>
+    {{ partial "sidebar.html" . }}
+  </div>
+</section>
+{{ end }}

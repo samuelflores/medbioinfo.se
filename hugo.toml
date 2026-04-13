@@ -1,0 +1,51 @@
+baseURL = "https://www.medbioinfo.se/"
+languageCode = "en-gb"
+title = "MedBioInfo"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 8
+
+[params]
+  description = "The Swedish National Graduate School in Medical Bioinformatics"
+  subtitle = "The Swedish Research School in Medical Bioinformatics"
+  organisation = "MedBioInfo"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 2
+  [[menus.main]]
+    name = "Application"
+    pageRef = "/application"
+    weight = 3
+  [[menus.main]]
+    name = "Courses & Events"
+    pageRef = "/courses-and-events"
+    weight = 4
+  [[menus.main]]
+    name = "Students"
+    pageRef = "/students"
+    weight = 5
+  [[menus.main]]
+    name = "Benefits"
+    pageRef = "/benefits"
+    weight = 6
+  [[menus.main]]
+    name = "Representatives"
+    pageRef = "/university-representatives"
+    weight = 7
+  [[menus.main]]
+    name = "Resources"
+    pageRef = "/resources"
+    weight = 8

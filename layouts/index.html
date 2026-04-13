@@ -1,0 +1,47 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="container content-grid hero-grid">
+    <article class="main-content">
+      <h1>{{ site.Data.site.hero_title }}</h1>
+      <p class="lead">{{ site.Data.site.hero_summary }}</p>
+      <div class="button-row">
+        <a class="button primary" href="/application/">Application</a>
+        <a class="button" href="/courses-and-events/">Courses and Events</a>
+      </div>
+      <div class="hero-image-wrap">
+        <img src="/img/group-2024.jpg" alt="MedBioInfo Annual Meeting 2024 group photo" class="hero-image">
+        <p class="image-caption">2024 Annual Meeting, 21–22 October at Yasuragi</p>
+      </div>
+    </article>
+    {{ partial "sidebar.html" . }}
+  </div>
+</section>
+
+<section class="page-section alt-section">
+  <div class="container two-col-cards">
+    <article class="feature-card">
+      <h2>About the graduate school</h2>
+      <p>The Graduate School is backed by a large group of bioinformaticians from all the major universities in Sweden. The school is run by Arne Elofsson, Director, and Samuel Flores, Dean of Students.</p>
+      <p><a href="/about/">Read more about the school →</a></p>
+    </article>
+    <article class="feature-card">
+      <h2>National network</h2>
+      <p>Affiliated faculty and university representatives span Stockholm University, KTH, Uppsala, Lund, Umeå, Linköping, Gothenburg, SLU, Örebro and more, giving students access to a broad national environment.</p>
+      <p><a href="/university-representatives/">View representatives →</a></p>
+    </article>
+  </div>
+</section>
+
+<section class="page-section">
+  <div class="container gallery-grid">
+    <figure class="gallery-card">
+      <img src="/img/group-2018.jpeg" alt="MedBioInfo annual meeting 2018 group photo">
+      <figcaption>Group photo of the 2018 Annual Meeting at Hjortviken.</figcaption>
+    </figure>
+    <figure class="gallery-card">
+      <img src="/img/group-2017.jpg" alt="MedBioInfo annual meeting 2017 group photo">
+      <figcaption>Group photo of the first incoming class and PIs at the 2017 Annual Meeting at Lejondal Castle.</figcaption>
+    </figure>
+  </div>
+</section>
+{{ end }}

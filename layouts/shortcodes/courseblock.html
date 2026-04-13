@@ -1,0 +1,14 @@
+{{ $group := .Get "group" }}
+{{ $items := index site.Data.courses $group }}
+{{ range $items }}
+<section class="course-entry">
+  <h3>{{ .title }} <span class="post-meta">{{ .hp }}</span></h3>
+  <p><strong>{{ .teacher }}</strong></p>
+  <p>{{ .summary }}</p>
+  {{ with .editions }}
+  <div class="table-list">
+    {{ range . }}<div class="list-card">{{ . }}</div>{{ end }}
+  </div>
+  {{ end }}
+</section>
+{{ end }}

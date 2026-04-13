@@ -1,0 +1,8 @@
+{{ range site.Data.students.classes }}
+<section class="student-class">
+  <h2>Class of {{ .year }}</h2>
+  <div class="table-list">
+    {{ range .members }}<div class="list-card">{{ . }}</div>{{ end }}
+  </div>
+</section>
+{{ end }}

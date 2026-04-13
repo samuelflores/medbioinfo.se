@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section class="page-section">
+  <div class="container content-grid">
+    <article class="main-content prose">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </article>
+    {{ partial "sidebar.html" . }}
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,18 @@
+<aside class="sidebar">
+  <div class="sidebar-card">
+    <h3>Recent Posts</h3>
+    <ul class="sidebar-list">
+      {{ range site.Data.sidebar.recent_posts }}
+      <li><a href="{{ .url }}">{{ .title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="sidebar-card">
+    <h3>Resources</h3>
+    <ul class="sidebar-list">
+      {{ range site.Data.sidebar.resources }}
+      <li><a href="{{ .url }}">{{ .name }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</aside>

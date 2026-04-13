@@ -1,0 +1,18 @@
+recent_posts:
+  - title: "Save the date! MedBioInfo Annual Meeting 2025"
+    url: "/news/save-the-date-medbioinfo-annual-meeting-2025/"
+  - title: "Call for applications to join the MedBioInfo incoming class of 2025"
+    url: "/news/call-for-applications-2025/"
+  - title: "Call for applications to the National Graduate School in Medical Bioinformatics 2024"
+    url: "/news/call-for-applications-2024/"
+  - title: "2023 Call for applications to the National Graduate School in Medical Bioinformatics"
+    url: "/news/call-for-applications-2023/"
+  - title: "Prospective students: the March meeting dates are announced!"
+    url: "/news/march-meeting-dates/"
+resources:
+  - name: "Literature"
+    url: "/literature/"
+  - name: "Resources"
+    url: "/resources/"
+  - name: "External Partners"
+    url: "/external-partners/"

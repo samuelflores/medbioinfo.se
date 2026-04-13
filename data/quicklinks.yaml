@@ -1,0 +1,8 @@
+- name: "About"
+  url: "/about/"
+- name: "Application"
+  url: "/application/"
+- name: "Courses and Events"
+  url: "/courses-and-events/"
+- name: "External Partners"
+  url: "/external-partners/"
