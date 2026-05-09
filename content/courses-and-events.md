@@ -16,9 +16,13 @@ The basis of the research school is two courses per year. Later courses may assu
 
 {{< courseblock group="second_or_third_year" >}}
 
+{{/*   // This block commented out by SCF, 9 may 2026.
 ## Third-year courses
 
 {{< courseblock group="third_year" >}}
+
+*/}} 
+
 
 ## Annual meetings
 
