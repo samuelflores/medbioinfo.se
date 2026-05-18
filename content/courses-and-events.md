@@ -16,14 +16,10 @@ The basis of the research school is two courses per year. Later courses may assu
 
 {{< courseblock group="second_or_third_year" >}}
 
-{{/*   // This block commented out by SCF, 9 may 2026.
-## Third-year courses
-
-{{< courseblock group="third_year" >}}
-
-*/}} 
 
 
 ## Annual meetings
 
-Another major part of the research school is the annual meeting. These meetings combine student presentations, faculty talks, mentoring, and soft-skills sessions, while also helping students build a long-term national scientific network.
+Another major part of the research school is the annual meeting. These meetings combine student presentations, faculty talks, mentoring, and soft-skills sessions, while also helping students build a long-term national scientific network. Students in years 1-3 are automatically invited, 4th year students please contact the Dean of Students to join.
+
+{{< courseblock group="annual_meetings"  >}}
