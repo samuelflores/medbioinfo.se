@@ -1,7 +1,7 @@
 first_year:
   - title: "Reproducible Research"
     hp: "3 HP"
-    teacher: "Samuel Flores, Swedish University of Agricultural Sciences"
+    teacher: "Samuel Coulbourn Flores, Swedish University of Agricultural Sciences"
     summary: "Introduces reproducible bioinformatics practice, including containers, version management, pipelining, Unix, and good scientific computing habits."
     editions:
       - "In-person 28 May – 1 June 2018 at SciLifeLab, Solna"
@@ -27,32 +27,41 @@ second_or_third_year:
   - title: "Experimental Design for High-throughput Technologies"
     hp: "3 HP"
     teacher: "Carsten Daub, Karolinska Institutet"
-    summary: "Focuses on experimental design for high-throughput studies and critical evaluation of design choices in bioinformatics workflows."
+    summary: "Focuses on experimental design for high-throughput studies and critical evaluation of design choices in bioinformatics workflows. We plan to run this course yearly."
     editions:
       - "In-person 3–7 September 2018 at SciLifeLab, Solna"
       - "In-person 2–6 September 2019 at SciLifeLab, Solna"
       - "In-person 25–29 October 2021 at SciLifeLab, Solna"
       - "Hybrid 19–23 and 26–30 September 2022"
       - "In-person 13–17 November 2023 at SciLifeLab, Solna"
-      - "Planned: 3–7 November 2025 at SciLifeLab, Solna"
-      - "Planned: 23–27 November 2026 at SciLifeLab, Solna"
+      - "In-person: 3–7 November 2025 at SciLifeLab, Solna"
+      - "Planned, in-person: 23–27 November 2026 at SciLifeLab, Solna"
   - title: "Deep Learning"
     hp: "5 HP"
     teacher: "Chun-Biu Li, Stockholm University"
-    summary: "An advanced course in deep learning with MedBioInfo seats reserved for students."
+    summary: "An advanced course in deep learning with MedBioInfo seats reserved for students. We are planning to run this course yearly."
     editions:
       - "Planned: onsite 8–12 June 2026"
   - title: "Computational Systems Biology"
     hp: "3–5 HP"
     teacher: "Mika Gustafsson, Linköping University"
-    summary: "Introduces systems biology concepts and mathematical models for biomedical research, from small-scale to large-scale modelling."
+    summary: "Introduces systems biology concepts and mathematical models for biomedical research, from small-scale to large-scale modelling. This course runs every other year from 2026."
     editions:
       - "Ran 5–8 May 2025 in Linköping"
-      - "Planned: 4–8 May 2026 in Linköping"
+      - "Ran: 4–8 May 2026 in Linköping"
+      - "Planned: sometime in 2028 in Linköping"
 
   - title: "Career Alternatives and Your Scientific CV"
     hp: "1 HP"
     teacher: "Carsten Daub, Karolinska Institutet"
-    summary: "Explores academic and industry careers, with exercises on CV writing and interviews."
+    summary: "Explores academic and especially industry careers, with exercises on CV writing and interviews."
     editions:
-      - "Planned: first 26-27 May 2026"
+      - "First ran: 26-27 May 2026"
+
+
+annual_meetings:
+  - title: "2026 Annual Meeting"
+    hp: "1 HP"
+    summary: "Includes soft-skills workshop. Poster required for credit."
+    editions:
+      - "21-22 September 2026. At Yasuragi Hasseludden, Stockholm Archipelago."
