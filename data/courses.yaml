@@ -27,7 +27,7 @@ second_or_third_year:
   - title: "Experimental Design for High-throughput Technologies"
     hp: "3 HP"
     teacher: "Carsten Daub, Karolinska Institutet"
-    summary: "Focuses on experimental design for high-throughput studies and critical evaluation of design choices in bioinformatics workflows. We plan to run this course yearly."
+    summary: "Focuses on experimental design for high-throughput studies and critical evaluation of design choices in bioinformatics workflows. Now a DDLS course, funded partly by MedBioInfo.  Planned to run yearly."
     editions:
       - "In-person 3–7 September 2018 at SciLifeLab, Solna"
       - "In-person 2–6 September 2019 at SciLifeLab, Solna"
@@ -39,9 +39,9 @@ second_or_third_year:
   - title: "Deep Learning"
     hp: "5 HP"
     teacher: "Chun-Biu Li, Stockholm University"
-    summary: "An advanced course in deep learning with MedBioInfo seats reserved for students. We are planning to run this course yearly."
+    summary: "An advanced course in deep learning, funded by DDLS, with seats reserved for MedBioInfo students. We are planning to run this course yearly."
     editions:
-      - "Planned: onsite 8–12 June 2026"
+      - "Ran: onsite 8–12 June 2026"
   - title: "Computational Systems Biology"
     hp: "3–5 HP"
     teacher: "Mika Gustafsson, Linköping University"
