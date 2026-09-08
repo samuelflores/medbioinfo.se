@@ -65,3 +65,11 @@ annual_meetings:
     summary: "Includes soft-skills workshop. Poster required for credit."
     editions:
       - "21-22 September 2026. At Yasuragi Hasseludden, Stockholm Archipelago."
+
+completion_certificate:
+  - title: ""
+    hp: ""
+    summary: "You can earn your certificate by completing either of the following:"
+    editions:
+      - "Five courses and one annual meeting."
+      - "Four courses and two annual meetings."

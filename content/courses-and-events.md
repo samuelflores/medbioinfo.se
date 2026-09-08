@@ -23,3 +23,9 @@ The basis of the research school is two courses per year. Later courses may assu
 Another major part of the research school is the annual meeting. These meetings combine student presentations, faculty talks, mentoring, and soft-skills sessions, while also helping students build a long-term national scientific network. Students in years 1-3 are automatically invited, 4th year students please contact the Dean of Students to join.
 
 {{< courseblock group="annual_meetings"  >}}
+
+## Completion certificate
+
+We issue the MedBioInfo completion certificate to students who complete the program. The certificate is not a formal degree, and does not confer HP.
+
+{{< courseblock group="completion_certificate"  >}}
