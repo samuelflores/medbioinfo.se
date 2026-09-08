@@ -2,7 +2,8 @@
 set -euo pipefail
 
 #TARGET="${1:-}"
-TARGET=arnee@pcons1.scilifelab.se:/server/var/www/medbioinfo.se/public/
+#TARGET=arnee@pcons1.scilifelab.se:/server/var/www/medbioinfo.se/public/
+TARGET=sam@pcons1.scilifelab.se:/server/var/www/medbioinfo.se/public/
 
 if [[ -z "$TARGET" ]]; then
   echo "Usage: ./scripts/deploy.sh user@host:/path/"
