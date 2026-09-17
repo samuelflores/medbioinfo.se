@@ -28,5 +28,5 @@ You are eligible to apply if you began or will begin your PhD between January 20
 Our host university is now the Swedish University of Agricultural Sciences. This does not change the admissions logic, course format or student experience.
 
 <div class="button-row">
-  <a class="button primary" href="https://ec.europa.eu">Apply now</a>
+  <a class="button primary" href="https://ec.europa.eu/eusurvey/runner/aa356865-c469-5fbc-cbb1-bae39d98a487">Apply now</a>
 </div>

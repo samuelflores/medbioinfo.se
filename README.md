@@ -14,6 +14,7 @@ A Hugo-based, Git-friendly rebuild of **www.medbioinfo.se**, designed to preserv
 make serve
 make build
 make deploy TARGET=user@server:/var/www/html/medbioinfo/
+#Actually just "make deploy" will send all the files to pcons1. Easy enough.
 ```
 
 ## Structure
