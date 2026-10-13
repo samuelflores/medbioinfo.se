@@ -14,6 +14,7 @@ A Hugo-based, Git-friendly rebuild of **www.medbioinfo.se**, designed to preserv
 make serve
 make build
 make deploy TARGET=user@server:/var/www/html/medbioinfo/
+# For us, make deploy TARGET=sam@pcons1.scilifelab.se:/var/www/html/medbioinfo/
 #Actually just "make deploy" will send all the files to pcons1. Easy enough.
 ```
 
@@ -31,3 +32,4 @@ make deploy TARGET=user@server:/var/www/html/medbioinfo/
 - The site is intentionally styled to resemble the current MedBioInfo layout: utility bar, centered logo, navigation, content area with sidebar cards, and meeting images.
 - Some pages have been modernised slightly for readability while retaining the original organisation and wording.
 - If you want to migrate more archived WordPress posts, add them under `content/news/`.
+- Dynamically generated content. For instance, do not edit public/courses-and-events/index.html .. instead, edit content/courses-and-events.md and its data in:  data/courses.yaml .

@@ -14,7 +14,7 @@ first_year:
       - "In-person 14–18 September 2026 at SLU Ultuna, plus pre-assignments. There are hybrid help sessions 8–12 September which are optional for MedBioInfo students, and expected for GS-VMAS students"
   - title: "Statistics in Bioinformatics"
     hp: "3 HP"
-    teacher: "Dirk Repsilber, Örebro University and Zelmina Lubovac, University of Skövde"
+    teacher: "Dirk Repsilber, Örebro University"
     summary: "Covers univariate and multivariate statistics, omics data analysis, and predictive biosignatures for precision medicine."
     editions:
       - "Online 19–23 October 2020"
@@ -57,6 +57,18 @@ second_or_third_year:
     summary: "Explores academic and especially industry careers, with exercises on CV writing and interviews."
     editions:
       - "First ran: 26-27 May 2026"
+
+
+course_sequence:
+
+
+  - title: ""
+    hp: ""
+    teacher: ""
+    summary: ""
+    editions:
+      - "Admitted in 2026: Year 1: Reproducible Research and Statistics. Year 2: Experimental Design for High-throughput Technologies, and Deep Learning. Year 3: Computational Systems Biology, and Career Alternatives and Your Scientific CV. "
+      - "Admitted in 2027: Year 1: Reproducible Research, and Statistics. Year 2:  Computational Systems Biology, and Experimental Design for High-throughput Technologies. Year 3: Deep Learning, and Career Alternatives and Your Scientific CV."
 
 
 annual_meetings:

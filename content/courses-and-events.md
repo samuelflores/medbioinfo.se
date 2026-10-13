@@ -16,6 +16,11 @@ The basis of the research school is two courses per year. Later courses may assu
 
 {{< courseblock group="second_or_third_year" >}}
 
+## Recommended sequence           
+
+Students are recommended to take courses in the following order:
+
+{{< courseblock group="course_sequence" >}}
 
 
 ## Annual meetings
@@ -26,6 +31,6 @@ Another major part of the research school is the annual meeting. These meetings 
 
 ## Completion certificate
 
-We issue the MedBioInfo completion certificate to students who complete the program. The certificate is not a formal degree, and does not confer HP.
+We issue the MedBioInfo completion certificate upon request to students who complete the program. In some cases we may ask you to send in your course and annual meeting certificates. The certificate is not a formal degree, and does not confer HP.
 
 {{< courseblock group="completion_certificate"  >}}
