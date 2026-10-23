@@ -3,7 +3,7 @@
     <h3>Recent Posts</h3>
     <ul class="sidebar-list">
       {{ range site.Data.sidebar.recent_posts }}
-      <li><a href="{{ .url }}">{{ .title }}</a></li>
+      <li><a href="{{ .url | relURL }}">{{ .title }}</a></li>
       {{ end }}
     </ul>
   </div>
