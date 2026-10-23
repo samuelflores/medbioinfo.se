@@ -19,10 +19,9 @@ You are eligible to apply if you began or will begin your PhD between January 20
 ### Why MedBioInfo remains attractive for PIs and students
 
 1. Admitted students get a full menu of bioinformatics courses, delivered on a schedule made with the student in mind.
-2. Invitations are sent automatically for the next course in the program, with guaranteed places.
-3. Courses have been refined over multiple years through evaluation and follow-up.
-4. Admission signals strong suitability for computational coursework and gives a distinction recognised by employers.
-5. Networking through the annual meeting is as important as the courses themselves.
+2. Courses have been refined over multiple years through evaluation and follow-up.
+3. Admission signals strong suitability for computational coursework and gives a distinction recognised by employers.
+4. Networking and mentorship e.g. through the annual meeting is as important as the courses themselves.
 
 The application system is not yet open.
 
