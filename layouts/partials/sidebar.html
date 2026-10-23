@@ -11,7 +11,7 @@
     <h3>Resources</h3>
     <ul class="sidebar-list">
       {{ range site.Data.sidebar.resources }}
-      <li><a href="{{ .url }}">{{ .name }}</a></li>
+      <li><a href="{{ .url  | relURL}}">{{ .name }}</a></li>
       {{ end }}
     </ul>
   </div>
