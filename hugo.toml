@@ -1,4 +1,4 @@
-baseURL = "https://www.medbioinfo.se/"
+#baseURL = "https://www.medbioinfo.se/"
 languageCode = "en-gb"
 title = "MedBioInfo"
 enableRobotsTXT = true
