@@ -10,7 +10,10 @@
   </div>
   <div class="notice-bar">{{ site.Data.site.notice }}</div>
   <div class="branding container">
-    <a href="/" class="brand-link"><img src="/img/logo.jpg" alt="MedBioInfo logo"></a>
+    <!--  <a href="/" class="brand-link"><img src="/img/logo.jpg" alt="MedBioInfo logo"></a>  -->
+    <a href="{{ site.Home.RelPermalink }}" class="brand-link"><img src="{{ "img/logo.jpg" | relURL }}" alt="MedBioInfo logo"></a>
+
+
   </div>
   <div class="nav-shell">
     <div class="container nav-wrap">
