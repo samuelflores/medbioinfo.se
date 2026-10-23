@@ -43,8 +43,10 @@ enableRobotsTXT = true
     pageRef = "/benefits"
     weight = 6
   [[menus.main]]
-    name = "Representatives"
-    pageRef = "/university-representatives"
+    #name = "Representatives"
+    #pageRef = "/university-representatives"
+    name = "External partners"
+    pageRef = "/external-partners"
     weight = 7
   [[menus.main]]
     name = "Resources"
