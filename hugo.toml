@@ -1,4 +1,5 @@
 #baseURL = "https://www.medbioinfo.se/"
+baseURL = "https://samuelflores.github.io/medbioinfo.se/"
 languageCode = "en-gb"
 title = "MedBioInfo"
 enableRobotsTXT = true
