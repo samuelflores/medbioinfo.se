@@ -1,10 +1,15 @@
 <header>
   <div class="utility-bar">
     <div class="container utility-inner">
+
+      <div class="utility-email">
+      <a href="mailto:{{ site.Data.site.contact_email }}">{{ site.Data.site.contact_email }}</a>
+      <!--
       <div class="utility-email"><a href="mailto:{{ site.Data.site.contact_email }}">{{ site.Data.site.contact_email }}</a></div>
       <div class="utility-links">
         <span>Quick Links</span>
         {{ range site.Data.quicklinks }}<a href="{{ .url  | relURL }}">{{ .name }}</a>{{ end }}
+      -->
       </div>
     </div>
   </div>
