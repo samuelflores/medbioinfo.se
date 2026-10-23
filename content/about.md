@@ -4,8 +4,7 @@ title: "About the Graduate School"
 
 The Graduate School is backed by a large group of bioinformaticians from all the major universities in Sweden. The school is run by:
 
-- **Arne Elofsson, Director (Stockholm University)** — board meetings, student travel invoices, fall meetings.
-- **Samuel Flores, Dean of Students (Swedish University of Agricultural Sciences)** — admissions, final report, spring meetings.
+- **Samuel Flores, Dean of Students (Swedish University of Agricultural Sciences)** 
 
 MedBioInfo was established to provide advanced national training in medical bioinformatics for PhD students. The school combines coursework, mentoring, and annual meetings to give students access to expertise beyond their home university.
 
